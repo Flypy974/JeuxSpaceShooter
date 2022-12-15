@@ -1,7 +1,8 @@
 # space_shooter
 
 A new Flutter project.
-Voici mon jeu space shooter
+
+Voici mon jeu space shooter. https://spaceshooterflutter.netlify.app/#/
 
 ## Getting Started
 
