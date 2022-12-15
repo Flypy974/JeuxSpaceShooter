@@ -1,6 +1,7 @@
 # space_shooter
 
 A new Flutter project.
+Voici mon jeu space shooter
 
 ## Getting Started
 
